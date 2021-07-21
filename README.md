@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/feriexp/JisooXRobot/stargazers"><img src="https://img.shields.io/github/stars/noob-kittu/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Anton12z/Gigamon/stargazers"><img src="https://img.shields.io/github/stars/noob-kittu/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/feriexp/JisooXRobot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -13,7 +13,7 @@
   <img src="https://telegra.ph/file/d040d6fbf5919acbbe92c.jpg">
 </p>
 
-### Found Me On Telegram [@JisooXRobot](https://t.me/JisooXRobot)
+### Found Me On Telegram [@Farelse](https://t.me/Farelse)
 
 
 
