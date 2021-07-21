@@ -27,40 +27,39 @@ from JisooX.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-_Hello_ *{}*
-_My name is_ *{}*\n_A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!_
-_Maintained by_ [{}](tg://user?id={})
+Hello,Nama saya 
+Dikelolah oleh [Farelse] ("https://t.me/Farelse") 
+... ______________________.... 
+Saya di sini untuk membantu anda untuk mengelolah group anda dari para penguna jamet jamet meresahkan, 
+Dengan jurus super telo gantong belong saya bisa membasmi mereka dengan sangat mudah!! 
+.... _____________________.... 
+Silakan klik tombol bantuan untuk mendapatkan information
+
 """
 
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
-the things I can help you with.
-*Main* commands available:
- 💠 - /start: start the bot
- 💠 - /help: PM's you this message.
- 💠 - /help <module name>: PM's you info about that module.
- 💠 - /source: Information about my source.
- 💠 - /settings:
-   🔹 - in PM: will send you your settings for all supported modules.
-   🔹 - in a group: will redirect you to pm, with all that chat's settings.
+Perintah utaman :
+
+*Utama*perintah yang tersedia :
+ 💠 /start: Mulai Saya! Anda mungkin Sudan mengunakan ini. 
+ 💠 /help: klik ini, Saya akan memberi tahu Anda tentang diri Saya! 
+ 💠 /donate: Anda dapat mendukung pembuat Saya mengunakan perintah ini. 
+ 💠 /Pengaturan:
+   🔹 - di PM: akan mengirimkan pengaturan anda untuk semua modul yang di during. u your settings for all supported modules.
+   🔹 - di group: akan mengarahkan anda ke pm, dengan semua pengaturan obrolan itu.
 {}
-And the following:
-""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
+Dan berikut ini :
+""". format(dispatcher.bot.first_name, "" Jika tidak ALLOW_EXCL else "\n Semua perintah dapat dengan / atau !.\n")
 
 
 
 VERSION = "6.0"
 
 def vercheck() -> str:
-    return str(VERSION)
+    Kembali str(VERSION)
 
 
-SOURCE_STRING = """
-⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/ferikunn/JisooXRobot)
-⚡You Can Clone Me [Here](https://heroku.com/deploy?template=https://github.com/ferikunn/JisooXRobot.git)
-"""
 
 
 IMPORTED = {}
@@ -76,8 +75,8 @@ USER_SETTINGS = {}
 
 GDPR = []
 
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
+START_IMG = os.lingkungan.dapatkan('START_IMG', tidak Ada )
+Jika START_IMG adalah none:
     img = "https://telegra.ph/file/c4c66449d0dfcf5f24b50.jpg"
 else:
   img = START_IMG    
